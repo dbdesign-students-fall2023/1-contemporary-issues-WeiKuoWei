@@ -2,7 +2,7 @@
 
 Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
 
- # ChatGPT: Things it can should, but it shouldn't  
+ # ChatGPT's Role in Education 
 The emergence of ChatGPT has brought unprecedented influence to our daily lives and how human beings utilize artificial intelligence. As individuals who have just embarked on our journeys of exploring the knowns and unknowns of knowledge, students, without a doubt, bear the most impact from the use of ChatGPT. In this document, I aim to discuss supporting and opposing views of whether ChatGPT should be used in education.
 
 ## Article 1 
